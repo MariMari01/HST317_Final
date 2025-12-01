@@ -10,7 +10,7 @@
 
 body {
     font-family: 'Times New Roman', monospace;
-    background: linear-gradient(rgb(8, 49, 37));
+    background-image:url(../images/mosaic.webp) ;
     color: #fffdfd;
     line-height: 1.6;
     padding: 20px;
